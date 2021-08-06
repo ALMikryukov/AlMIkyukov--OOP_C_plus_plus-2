@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\User\source\repos\OOP\List\List.h(82,17): error C2039: "nex": не является членом "List<int>::Node".
+C:\Users\User\source\repos\OOP\List\List.h(9): message : см. объявление "List<int>::Node"
+C:\Users\User\source\repos\OOP\List\List.h(74): message : во время компиляции функции-члена класс шаблон "void List<int>::remove(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\User\source\repos\OOP\List\main.cpp(29): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<int>::remove(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\User\source\repos\OOP\List\main.cpp(10): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<int>"
+C:\Users\User\source\repos\OOP\List\List.h(85,18): error C2039: "perv": не является членом "List<int>::Node".
+C:\Users\User\source\repos\OOP\List\List.h(9): message : см. объявление "List<int>::Node"

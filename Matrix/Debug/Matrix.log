@@ -1,0 +1,7 @@
+﻿  Main_Matrix.cpp
+C:\Users\User\source\repos\OOP\Matrix\Matrix.h(28,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\User\source\repos\OOP\Matrix\Matrix.h(37): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Matrix<T,rows,cols>"
+C:\Users\User\source\repos\OOP\Matrix\Matrix.h(28,33): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "other"
+C:\Users\User\source\repos\OOP\Matrix\Matrix.h(28,1): error C3646: other: неизвестный спецификатор переопределения
+C:\Users\User\source\repos\OOP\Matrix\Matrix.h(28,1): error C2059: синтаксическая ошибка: )
+C:\Users\User\source\repos\OOP\Matrix\Matrix.h(29,10): error C2760: синтаксическая ошибка: непредвиденный токен "идентификатор"; требуется ";"
